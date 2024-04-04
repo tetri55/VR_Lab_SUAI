@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Documents/VR_Lab/VR_Lab/VR_Lab_SUAI/UE/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"E:/Documents/VR_Lab/VR_Lab/Content/StarterContent/Props/MaterialSphere.uasset",
+				"E:/Documents/VR_Lab/VR_Lab/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"E:/Documents/VR_Lab/VR_Lab/Content/MyContent/NewBlueprint.uasset",
+				"E:/Documents/VR_Lab/VR_Lab/Content/MyContent/Follower/NewBlueprint.uasset",
+				"E:/Documents/VR_Lab/VR_Lab/Content/MyContent/Follower/Follower.uasset",
+				"E:/Documents/VR_Lab/VR_Lab/Content/MyContent/Follower/BP_Follower.uasset",
+				"E:/Documents/VR_Lab/VR_Lab/Content/MyContent/Follower/rainbow.uasset",
+				"E:/Documents/VR_Lab/VR_Lab/Content/VRTemplate/Blueprints/VRPawn.uasset"
+			]
+		}
+	]
+}
