@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+UE/Saved/AutoScreenshot.png
+UE/Intermediate/CachedAssetRegistry_0.bin
+UE/Saved/Logs/VR_Lab.log
+UE/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+*.ini
+*.log
