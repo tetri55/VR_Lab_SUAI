@@ -78,3 +78,6 @@ UE/Saved/Logs/VR_Lab.log
 UE/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 *.ini
 *.log
+/UE/Saved/Crashes
+/UE/Saved/Logs
+UE/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
