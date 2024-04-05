@@ -1,3 +1,5 @@
-2024/04/05-15:20:23.809 ac4 Reusing MANIFEST C:/Users/aleks/OneDrive/Документы/GitHub/VR_Lab_SUAI/UE/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/04/05-15:20:23.814 ac4 Recovering log #3
-2024/04/05-15:20:23.815 ac4 Reusing old log C:/Users/aleks/OneDrive/Документы/GitHub/VR_Lab_SUAI/UE/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/04/05-16:43:54.708 379c Reusing MANIFEST C:/Users/aleks/OneDrive/Документы/GitHub/VR_Lab_SUAI/UE/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/04/05-16:43:54.709 379c Recovering log #3
+2024/04/05-16:43:54.709 379c Level-0 table #3: started
+2024/04/05-16:43:54.712 379c Level-0 table #3: 16663 bytes OK
+2024/04/05-16:43:54.714 379c Delete type=0 #3
