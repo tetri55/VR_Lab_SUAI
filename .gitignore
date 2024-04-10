@@ -93,3 +93,5 @@ UE/Intermediate/CachedAssetRegistry_0.bin
 UE/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 UE/Saved/Config/WindowsEditor/Engine.ini
 UE/Saved/Logs/VR_Lab.log
+*.log
+/UE/Saved/Config
